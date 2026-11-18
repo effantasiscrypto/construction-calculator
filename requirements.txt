@@ -1,0 +1,9 @@
+text
+streamlit
+sympy
+PyNiteFEA
+pydantic
+plotly
+numpy
+pandas
+python-docx
